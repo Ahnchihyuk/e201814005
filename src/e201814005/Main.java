@@ -6,5 +6,6 @@ public class Main {
 		System.out.println("Ahnchihyuk");
 		World.run();
 		World.run2();
+		Hello.run();
 	}
 }
